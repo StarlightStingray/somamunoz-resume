@@ -1,0 +1,1 @@
+This script lets yo-u look at my resume! How neat! It's short and straightforward - mostly a JSON file featuring personal info and links to site that are of relevance to me.

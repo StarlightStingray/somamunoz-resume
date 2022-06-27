@@ -1,0 +1,22 @@
+{
+	"name": "somamunoz-resume",
+	"version": "1.0.0",
+	"description": "Digital Resume",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/StarlightStingray/somamunoz-resume.git"
+	},
+	"author": "Soma Munoz",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/StarlightStingray/somamunoz-resume/issues"
+	},
+	"bin": {
+		"your-command-here": "./index.js"
+	},
+	"homepage": "https://github.com/StarlightStingray/somamunoz-resume#readme"
+}
